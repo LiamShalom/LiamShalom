@@ -1,7 +1,8 @@
 ## Hi, I'm Liam
 
-🟣 Computer Science student at the University of Washington<br/>
-🟡 Focus on data science and automation. 
+🟪 Computer Science student at the University of Washington<br/>
+💻 Experienced in building AI/ML systems, cloud infrastructure, and interactive web apps<br/>
+📈 Previously at Propper AI, Aurora View, and Lemon Boy Studios
 
 
 ## 🌐 Socials:
